@@ -1,0 +1,26 @@
+{
+  "name": "Pwa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -c-1 -p 3000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhuanghaixin/pwa-demo.git"
+  },
+  "keywords": [
+    "pwa",
+    "progressive"
+  ],
+  "author": "hisen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhuanghaixin/pwa-demo/issues"
+  },
+  "homepage": "https://github.com/zhuanghaixin/pwa-demo#readme",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
